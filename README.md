@@ -7,7 +7,7 @@ via a data endpoint for example.
 
 ## Usage
 
-Fisher is available via [Clojars](https://clojars.org/fisher).
+Fisher is available via [Clojars](https://clojars.org/rodnaph/fisher).
 
 ```clojure
 (ns my-namespace
